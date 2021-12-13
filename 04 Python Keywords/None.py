@@ -3,6 +3,5 @@ def return_none():
     b = 20
     c = a + b
 
-
 x = return_none()
 print(x)
